@@ -1,4 +1,3 @@
-# MDM-TA-2_CASE-STUDY_NETFLIX_CLONE
 # Netflix Landing Page Clone
 
 ## 📌 Project Overview
